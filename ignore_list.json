@@ -1,0 +1,10 @@
+{
+  "ignore_list":
+    [
+      ".idea",
+      "cmake-build-debug",
+      "venv",
+      "__pycache__",
+      ".vscode"
+    ]
+}

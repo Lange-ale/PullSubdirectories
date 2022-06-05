@@ -62,6 +62,6 @@ def main():
     script_path = get_path()
     move_to_dir('..')
     pull_all(only_part, ignore_dir, script_path)
-
+    input('Press enter to exit')
 
 main()
